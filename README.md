@@ -1,3 +1,8 @@
+# Learn React with me
+... there was a react vite default template readme, but i need you to read mine first. This is a repo to basically watch me navigate thru react, dunno what my tomfoolery is going to get me into but yeah watch.
+
+here you go... this is the template readme.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
